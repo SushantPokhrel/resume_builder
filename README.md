@@ -4,8 +4,10 @@ This is a web application that i am building so that resume-making becomes faste
 
 ## What tools & technologies i will be using in the project
 
-1. `React+TypeScript` for the client side
-2. `Tailwind CSS`
+1. `React+TypeScript` for faster type-safe client side
+2. `Tailwind CSS` for faster styling
 3. `Vite` for a streamlined development and build process
-4. `Node+Express` for the server side
-5. `Mongodb` as a database
+4. `Node+Express` for the server side logic
+5. `Mongodb` As the primary database for storing user and resume data
+
+### Further details and documentation will be added as the project evolves
